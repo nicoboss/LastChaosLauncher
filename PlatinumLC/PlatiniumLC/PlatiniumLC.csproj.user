@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\nico\Desktop\PlatiniumLC_2.0.3\|Z:\Programme\PlatiniumLC_2.0.3\|Z:\Programme\PlatiniumLC_2.0.2\|Z:\Programme\PlatiniumLC_2.0.1\|Z:\Programme\PlatiniumLC_2.0.0\</PublishUrlHistory>
+    <InstallUrlHistory>http://lc.elderfun.ch/PlatiniumLC/Update/|http://last.chaos.ro/PlatiniumLC/Update/|http://last.chaos.ro/PlatiniumLC/</InstallUrlHistory>
+    <SupportUrlHistory>http://last.chaos.ro/</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

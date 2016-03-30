@@ -1,0 +1,102 @@
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\NAudio.dll
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\NAudio.xml
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.csprojResolveAssemblyReference.cache
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.csproj.GenerateResource.Cache
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC.exe.config
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.Properties.Resources.resources
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC.exe.manifest
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC.application
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC.exe
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC.pdb
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.exe.manifest
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.application
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.exe
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.pdb
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.TrustInfo.xml
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.Form1.resources
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\LastChaosLauncher.cmd
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cwrsync
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\known_hosts
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\chmod.exe
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygcrypto-1.0.0.dll
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cyggcc_s-1.dll
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygiconv-2.dll
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygintl-8.dll
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygpath.exe
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygpopt-0.dll
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygssp-0.dll
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygwin1.dll
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygz.dll
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\rsync.exe
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\ssh.exe
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC.exe.config
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.exe
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.pdb
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.Form1.resources
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.Properties.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\LastChaosLauncher.cmd
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cwrsync
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\known_hosts
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\chmod.exe
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygcrypto-1.0.0.dll
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cyggcc_s-1.dll
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygiconv-2.dll
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygintl-8.dll
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygpath.exe
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygpopt-0.dll
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygssp-0.dll
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygwin1.dll
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygz.dll
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\rsync.exe
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\ssh.exe
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC.exe.manifest
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC.application
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC.exe
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\PlatiniumLC.pdb
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\NAudio.dll
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\NAudio.WindowsMediaFormat.dll
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\NAudio.xml
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.TrustInfo.xml
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.exe.manifest
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\obj\Debug\PlatiniumLC.application
+E:\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\Sound\lc.mp3
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatiniumLC\PlatiniumLC\bin\Debug\Sound\lc.mp3
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC.exe.config
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatinumLC\PlatiniumLC\obj\Debug\PlatiniumLC.exe
+C:\Users\nico\Documents\Visual Studio 2015\Projects\PlatinumLC\PlatiniumLC\obj\Debug\PlatiniumLC.pdb
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\Sound\lc.mp3
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\LastChaosLauncher.cmd
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cwrsync
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\known_hosts
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\chmod.exe
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygcrypto-1.0.0.dll
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cyggcc_s-1.dll
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygiconv-2.dll
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygintl-8.dll
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygpath.exe
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygpopt-0.dll
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygssp-0.dll
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygwin1.dll
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\cygz.dll
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\rsync.exe
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC_Client\rsync\ssh.exe
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC.exe.config
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC.exe.manifest
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC.application
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC.exe
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\PlatiniumLC.pdb
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\NAudio.dll
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\bin\Debug\NAudio.xml
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\obj\Debug\PlatiniumLC.csprojResolveAssemblyReference.cache
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\obj\Debug\PlatiniumLC.Form1.resources
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\obj\Debug\PlatiniumLC.Properties.Resources.resources
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\obj\Debug\PlatiniumLC.csproj.GenerateResource.Cache
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\obj\Debug\PlatiniumLC.TrustInfo.xml
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\obj\Debug\PlatiniumLC.exe.manifest
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\obj\Debug\PlatiniumLC.application
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\obj\Debug\PlatiniumLC.exe
+C:\Users\nico\Documents\GitHub\LastChaosLauncher\PlatinumLC\PlatiniumLC\obj\Debug\PlatiniumLC.pdb
